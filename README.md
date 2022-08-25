@@ -2,6 +2,8 @@
 
 The rar file contains mainy necessary folders to run the DTTProfiler algorithm. This Algorithm deals with online knowledge graph in order to return its profile based on its data types and terms. Into the Ouput folder, we have two files for a given knowledge graph. One of the file contains the prefixes used in the ABox and the other gives the profile described in the json format.
 
+NB: This is version that have been used in SWODCH'22 http://ceur-ws.org/Vol-2949/paper4.pdf
+
 ![1](https://user-images.githubusercontent.com/89542053/130845337-e9535743-e400-4fe6-80e2-a4c548a8c57c.PNG)
 
 
